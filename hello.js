@@ -1,1 +1,2 @@
-alert("hello_1");
+function h(){
+alert("hello");}
