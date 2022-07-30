@@ -1,2 +1,2 @@
 function h(){
-alert("hello");}
+alert("hello maaz");}
